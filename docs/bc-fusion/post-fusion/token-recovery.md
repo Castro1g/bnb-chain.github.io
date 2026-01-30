@@ -1,4 +1,6 @@
-# Token Recovery dApp
+git clone https://github.com/bnb-chain/node-dump.git
+cd node-dump
+make build# Token Recovery dApp
 
 To facilitate the token migration after the Beacon Chain shutdown,
 the [BEP299](https://github.com/bnb-chain/BEPs/blob/master/BEPs/BEP-299.md) is proposed
